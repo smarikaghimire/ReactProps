@@ -1,0 +1,8 @@
+/* App.css */
+.app-container {
+  padding-top: 50px; /* Add top space to the containers */
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  align-items: center; /* Center children horizontally */
+  min-height: 100vh; /* Ensure the container takes at least the height of the viewport */
+}
